@@ -1,0 +1,322 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Light
+OutlineFileName:\Neo Sans
+ResourceID:2747
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-LightItalic
+OutlineFileName:\Neo Sans
+ResourceID:2747
+MacStyle:2
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-LightItalic
+OutlineFileName:\Neo Sans
+ResourceID:2748
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans
+OutlineFileName:\Neo Sans
+ResourceID:2749
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Bold
+OutlineFileName:\Neo Sans
+ResourceID:2749
+MacStyle:1
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Italic
+OutlineFileName:\Neo Sans
+ResourceID:2749
+MacStyle:2
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-BoldItalic
+OutlineFileName:\Neo Sans
+ResourceID:2749
+MacStyle:3
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Italic
+OutlineFileName:\Neo Sans
+ResourceID:2750
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-BoldItalic
+OutlineFileName:\Neo Sans
+ResourceID:2750
+MacStyle:1
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Medium
+OutlineFileName:\Neo Sans
+ResourceID:2751
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-MediumItalic
+OutlineFileName:\Neo Sans
+ResourceID:2751
+MacStyle:2
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-MediumItalic
+OutlineFileName:\Neo Sans
+ResourceID:2752
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Bold
+OutlineFileName:\Neo Sans
+ResourceID:2753
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-BoldItalic
+OutlineFileName:\Neo Sans
+ResourceID:2753
+MacStyle:2
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-BoldItalic
+OutlineFileName:\Neo Sans
+ResourceID:2754
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Black
+OutlineFileName:\Neo Sans
+ResourceID:2755
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-BlackItalic
+OutlineFileName:\Neo Sans
+ResourceID:2755
+MacStyle:2
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-BlackItalic
+OutlineFileName:\Neo Sans
+ResourceID:2756
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-Ultra
+OutlineFileName:\Neo Sans
+ResourceID:2757
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-UltraItalic
+OutlineFileName:\Neo Sans
+ResourceID:2757
+MacStyle:2
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:NeoSans-UltraItalic
+OutlineFileName:\Neo Sans
+ResourceID:2758
+MacStyle:0
+FileLength:199462
+FileModTime:1137777138
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSans
+FamilyName:Neo Sans
+StyleName:Regular
+MenuName:Neo Sans
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans
+WritingScript:Roman
+OutlineFileName:\NeoSan
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:47746
+FileModTime:1080713342
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSans-Bold
+FamilyName:Neo Sans
+StyleName:Bold
+MenuName:Neo Sans
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Bold
+WritingScript:Roman
+OutlineFileName:\NeoSanBol
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:50555
+FileModTime:1080713342
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSans-Light
+FamilyName:Neo Sans
+StyleName:Light
+MenuName:Neo Sans
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Light
+WritingScript:Roman
+OutlineFileName:\NeoSanLig
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:48200
+FileModTime:1080714926
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NeoSans-Medium
+FamilyName:Neo Sans
+StyleName:Medium
+MenuName:Neo Sans
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Neo Sans Medium
+WritingScript:Roman
+OutlineFileName:\NeoSanMed
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+FileLength:50039
+FileModTime:1080713342
+DesignSize:-1
+%EndFont
+
